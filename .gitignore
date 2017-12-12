@@ -1,0 +1,8 @@
+# General
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Data and output files
+output_sounds/
+sounds/
